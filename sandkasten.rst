@@ -1,5 +1,0 @@
-Abschnitt
-=========
-
-Unterabschnitt
---------------
