@@ -25,15 +25,16 @@ Links sollten nicht kommentarlos eingefügt werden, dies hilft gerade Anfängern
 
 Wenn du eine Frage in einer Facebook-Gruppe oder einem Forum stellen möchtest, beachte bitte die folgenden Tipps:
 
- * Versuche zunächst, eine Antwort auf deine Frage selbst zu finden und schau, ob die Frage schoneinmal gestellt wurde:
+ * Versuche zunächst, eine Antwort auf deine Frage **selbst zu finden** und schau, ob die Frage schoneinmal gestellt wurde:
     - Bei Google
     - In der Suchfunktion der unten verlinkten Foren und Facebook-Gruppen
     - In diesem Dokument (aber wenn du schon hier bist, hast du das wahrscheinlich schon getan)
- * Formuliere deine Frage möglichst präzise. (Verständliche Sprache und die Benutzung von Satzzeichen helfen dabei natürlich!)
- * Stelle genau eine Frage pro Beitrag. 
- * Beschreibe, welche Lösungsansätze du bereits ausprobiert hast, und warum diese nicht funktioniert haben. 
- * Poste Code und Konfigurationsdateien, die du erstellt hast oder an denen du Änderungen durchgeführt hast. **Benutze dazu nicht Facebook,** sondern stell deinen Code auf http://pastebin.com/ und füge dann den Link in deiner Frage ein. Dies stellt sicher, dass Formatierungen im Code erhalten bleiben.
- * Gehe auf die Antworten ein, die du erhältst - das hilft bei der Lösungssuche und steigert die Motivation deiner Helfer, dir auch beim nächsten Problem zur Seite zu stehen.
+ * Formuliere deine Frage möglichst **präzise**. (Verständliche Sprache und die Benutzung von Satzzeichen sollten dabei selbstverständlich sein!)
+ * Stelle **genau eine Frage** pro Beitrag. 
+ * Beschreibe, welche **Lösungsansätze** du bereits ausprobiert hast, und warum diese nicht funktioniert haben. 
+ * Poste **Code und Konfigurationsdateien,** die du erstellt hast oder an denen du Änderungen durchgeführt hast. **Benutze dazu nicht Facebook,** sondern stell deinen Code auf http://pastebin.com/ und füge dann den Link in deiner Frage ein. Dies stellt sicher, dass Formatierungen im Code erhalten bleiben.
+ * Bekommst du **Fehlermeldungen,** so gib sie im genauen Wortlaut wieder oder poste Screenshots!
+ * Gehe auf die **Antworten** ein, die du erhältst - das hilft bei der Lösungssuche und steigert die Motivation deiner Helfer, dir auch beim nächsten Problem zur Seite zu stehen.
 
 ## Was brauche ich zum Einstieg?
 
