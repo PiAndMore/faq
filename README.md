@@ -21,6 +21,8 @@ Links sollten nicht kommentarlos eingefügt werden, dies hilft gerade Anfängern
 
 # Wie stelle ich Fragen?
 
+Wenn du eine Frage in einer Facebook-Gruppe oder einem Forum stellen möchtest, beachte bitte die folgenden Tipps:
+
  * Versuche zunächst, eine Antwort auf deine Frage selbst zu finden und schau, ob die Frage schoneinmal gestellt wurde:
     - Bei Google
     - In der Suchfunktion der unten verlinkten Foren und Facebook-Gruppen
