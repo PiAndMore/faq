@@ -44,7 +44,7 @@ Wenn du eine Frage in einer Facebook-Gruppe oder einem Forum stellen möchtest, 
 
 Siehe http://elinux.org/RPiconfig
 
-# Wie installiere ich das Betriebssystem?
+## Wie installiere ich das Betriebssystem?
 
 TODO
 
