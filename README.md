@@ -1,18 +1,18 @@
 # Deutsche Raspberry-Pi-FAQ
 
-Diese FAQ ist entstanden aus dem Wunsch, hÃ¤ufig gestellte Fragen (vor allem in der [Facebook-Gruppe "Raspberry Pi Deutschland"](https://www.facebook.com/groups/rpi.de/?ref=group_cover)) an zentraler Stelle zu sammen und zu beantworten. 
+Diese FAQ ist entstanden aus dem Wunsch, häufig gestellte Fragen (vor allem in der [Facebook-Gruppe "Raspberry Pi Deutschland"](https://www.facebook.com/groups/rpi.de/?ref=group_cover)) an zentraler Stelle zu sammen und zu beantworten. 
 
 ### Mitmachen!
 
-Die BeitrÃ¤ge werden vom Pi-and-More-Team und anderen Freiwilligen redaktionell betreut, um die QualitÃ¤t sicherzustellen. Beitragen kann aber jeder, dazu gibt es zwei MÃ¶glichkeiten:
+Die Beiträge werden vom Pi-and-More-Team und anderen Freiwilligen redaktionell betreut, um die Qualität sicherzustellen. Beitragen kann aber jeder, dazu gibt es zwei Möglichkeiten:
 
- - Durch Pull-Requests. Interessierte Benutzer kÃ¶nnen das [https://github.com/PiAndMore/faq](Repository, in dem die Inhalte liegen,) auf Github clonen, die Inhalte in ihrer Kopie die Repositories bearbeiten, und uns dann einen Pull-Request schicken. Wir akzeptieren den Pull-Request, wenn er inhaltlich und vom Format her passt.
+ - Durch Pull-Requests. Interessierte Benutzer können das [https://github.com/PiAndMore/faq](Repository, in dem die Inhalte liegen,) auf Github clonen, die Inhalte in ihrer Kopie die Repositories bearbeiten, und uns dann einen Pull-Request schicken. Wir akzeptieren den Pull-Request, wenn er inhaltlich und vom Format her passt.
 
- - Benutzern, die regelmÃ¤ÃŸig BeitrÃ¤ge beisteuern mÃ¶chten, geben wir eine Schreibberechtigung fÃ¼r das Github-Repository.
+ - Benutzern, die regelmäßig Beiträge beisteuern möchten, geben wir eine Schreibberechtigung für das Github-Repository.
 
 ### Formatierungshinweise
 
-Die ganze FAQ ist derzeit bewusst als eine lange Seite gestaltet - so bleibt sie schnell durchsuchbar. Sie soll bewusst keine vollstÃ¤ndigen Tutorials etc. wiedergeben, die weitere Unterabschnitte oder separate Seiten erfordern wÃ¼rden.
+Die ganze FAQ ist derzeit bewusst als eine lange Seite gestaltet - so bleibt sie schnell durchsuchbar. Sie soll bewusst keine vollständigen Tutorials etc. wiedergeben, die weitere Unterabschnitte oder separate Seiten erfordern würden.
 
 # Was brauche ich zum Einstieg?
 https://www.raspberrypi.org/learning/hardware-guide/
@@ -47,7 +47,7 @@ TODO
 
 
 # Offene Themen
-FÃ¼r die hier aufgelisteten Fragen freuen wir uns Ã¼ber eine gut formulierte Antwort von dir. Bitte verschiebe die Frage mit ihrer Antwort dann in den entsprechenden Abschnitt oben.
+Für die hier aufgelisteten Fragen freuen wir uns über eine gut formulierte Antwort von dir. Bitte verschiebe die Frage mit ihrer Antwort dann in den entsprechenden Abschnitt oben.
 ## Wie baue ich einen Magic Mirror?
 ## Wie lese ich die GPIOs aus?
 https://www.raspberrypi.org/blog/using-the-gpio/
