@@ -19,11 +19,6 @@ Die ganze FAQ ist derzeit bewusst als eine lange Seite gestaltet - so bleibt sie
 
 Links sollten nicht kommentarlos eingefügt werden, dies hilft gerade Anfängern nicht. Wenn möglich, sollte auf deutsche Seiten verwiesen werden.
 
-# Was brauche ich zum Einstieg?
-
-- Einen ersten Einstieg, auf Englisch aber gut bebildert, bietet der offizielle Hardware-Guide:  https://www.raspberrypi.org/learning/hardware-guide/
-- Eine Liste kompatibler Hardware, insbesondere SD-Karten, gibt es auf http://elinux.org/RPi_VerifiedPeripherals
-
 # Wie stelle ich Fragen?
 
  * Versuche zunächst, eine Antwort auf deine Frage selbst zu finden und schau, ob die Frage schoneinmal gestellt wurde:
@@ -35,6 +30,11 @@ Links sollten nicht kommentarlos eingefügt werden, dies hilft gerade Anfängern
  * Beschreibe, welche Lösungsansätze du bereits ausprobiert hast, und warum diese nicht funktioniert haben. 
  * Poste Code und Konfigurationsdateien, die du erstellt hast oder an denen du Änderungen durchgeführt hast. **Benutze dazu nicht Facebook,** sondern stell deinen Code auf http://pastebin.com/ und füge dann den Link in deiner Frage ein. Dies stellt sicher, dass Formatierungen im Code erhalten bleiben.
  * Gehe auf die Antworten ein, die du erhältst - das hilft bei der Lösungssuche und steigert die Motivation deiner Helfer, dir auch beim nächsten Problem zur Seite zu stehen.
+
+# Was brauche ich zum Einstieg?
+
+- Einen ersten Einstieg, auf Englisch aber gut bebildert, bietet der offizielle Hardware-Guide:  https://www.raspberrypi.org/learning/hardware-guide/
+- Eine Liste kompatibler Hardware, insbesondere SD-Karten, gibt es auf http://elinux.org/RPi_VerifiedPeripherals
 
 # Wie mache ich ...?
 
