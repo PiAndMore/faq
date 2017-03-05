@@ -51,7 +51,7 @@ FÃ¼r die hier aufgelisteten Fragen freuen wir uns Ã¼ber eine gut formulierte
 ## Wie baue ich einen Magic Mirror?
 ## Wie lese ich die GPIOs aus?
 https://www.raspberrypi.org/blog/using-the-gpio/
-GPIOs akzeptiren nur 3,3V TTL-Signale
+GPIOs akzeptieren nur 3,3V TTL-Signale
 
 ## Ich will einen PI in mein Auto einbauen
 http://www.st.com/content/ccc/resource/technical/document/application_note/1f/d7/fc/6d/2e/27/48/98/CD00181783.pdf/files/CD00181783.pdf/jcr:content/translations/en.CD00181783.pdf
