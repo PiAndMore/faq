@@ -8,7 +8,7 @@ Die Beiträge werden vom Pi-and-More-Team und anderen Freiwilligen redaktionell 
 
  - Durch Pull-Requests. Interessierte Benutzer können das [https://github.com/PiAndMore/faq](Repository, in dem die Inhalte liegen,) auf Github clonen, die Inhalte in ihrer Kopie die Repositories bearbeiten, und uns dann einen Pull-Request schicken. Wir akzeptieren den Pull-Request, wenn er inhaltlich und vom Format her passt.
 
- - Benutzern, die regelmäÃŸig Beiträge beisteuern möchten, geben wir eine Schreibberechtigung für das Github-Repository.
+ - Benutzern, die regelmäßig Beiträge beisteuern möchten, geben wir eine Schreibberechtigung für das Github-Repository.
 
 ### Formatierungshinweise
 
