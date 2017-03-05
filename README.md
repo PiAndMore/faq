@@ -56,6 +56,8 @@ GPIOs akzeptieren nur 3,3V TTL-Signale
 ## Ich will einen PI in mein Auto einbauen
 http://www.st.com/content/ccc/resource/technical/document/application_note/1f/d7/fc/6d/2e/27/48/98/CD00181783.pdf/files/CD00181783.pdf/jcr:content/translations/en.CD00181783.pdf
 
+## Wie baue ich mir einen eigenen Ablilight-Klon?
+http://www.forum-raspberrypi.de/Thread-tutorial-ambi-tv-ambilight-fuer-hdmi-quellen
 
 
 
