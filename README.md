@@ -40,3 +40,5 @@ TODO
 Für die hier aufgelisteten Fragen freuen wir uns über eine gut formulierte Antwort von dir. Bitte verschiebe die Frage mit ihrer Antwort dann in den entsprechenden Abschnitt oben.
 ## Wie baue ich einen Magic Mirror?
 ## Wie lese ich die GPIOs aus?
+## Ich will einen PI in mein Auto einbauen
+http://www.st.com/content/ccc/resource/technical/document/application_note/1f/d7/fc/6d/2e/27/48/98/CD00181783.pdf/files/CD00181783.pdf/jcr:content/translations/en.CD00181783.pdf
