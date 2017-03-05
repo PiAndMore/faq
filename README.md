@@ -1,4 +1,4 @@
-## Deutsche Raspberry-Pi-FAQ
+# Deutsche Raspberry-Pi-FAQ
 
 Diese FAQ ist entstanden aus dem Wunsch, häufig gestellte Fragen (vor allem in der [Facebook-Gruppe "Raspberry Pi Deutschland"](https://www.facebook.com/groups/rpi.de/?ref=group_cover)) an zentraler Stelle zu sammen und zu beantworten. Die Dokumentation steht unter der GPL-Lizenz (Version 3.0).
 
@@ -14,3 +14,23 @@ Die Beiträge werden vom Pi-and-More-Team und anderen Freiwilligen redaktionell 
 
 Die ganze FAQ ist derzeit bewusst als eine lange Seite gestaltet - so bleibt sie schnell durchsuchbar. Sie soll bewusst keine vollständigen Tutorials etc. wiedergeben, die weitere Unterabschnitte oder separate Seiten erfordern würden.
 
+# Was brauche ich zum Einstieg?
+
+TODO
+
+# Wie mache ich ...?
+
+TODO
+
+# Projekte
+
+TODO
+
+# Community
+
+TODO
+
+# Offene Themen
+Für die hier aufgelisteten Fragen freuen wir uns über eine gut formulierte Antwort von dir. Bitte verschiebe die Frage mit ihrer Antwort dann in den entsprechenden Abschnitt oben.
+## Wie baue ich einen Magic Mirror?
+## Wie lese ich die GPIOs aus?
