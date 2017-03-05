@@ -36,6 +36,16 @@ TODO
  - [Facebook-Gruppe "Projekt Smart Mirror"](https://www.facebook.com/groups/248735748896945/)
  - [Facebook-Gruppe "Einplatinencomputer"](https://www.facebook.com/groups/577888222399762/)
 
+## Welche Magazine, Bücher, Lektüre gibt es?
+
+### Deutsch
+- [Raspberry PI Geek](http://www.raspberry-pi-geek.de/Magazin) 
+
+###Englisch
+
+- [The MagPI](https://www.raspberrypi.org/magpi/) - kostenlos als PDF
+
+
 # Offene Themen
 FÃ¼r die hier aufgelisteten Fragen freuen wir uns Ã¼ber eine gut formulierte Antwort von dir. Bitte verschiebe die Frage mit ihrer Antwort dann in den entsprechenden Abschnitt oben.
 ## Wie baue ich einen Magic Mirror?
