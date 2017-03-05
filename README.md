@@ -1,6 +1,6 @@
 # Deutsche Raspberry-Pi-FAQ
 
-Diese FAQ ist entstanden aus dem Wunsch, häufig gestellte Fragen (vor allem in der [Facebook-Gruppe "Raspberry Pi Deutschland"](https://www.facebook.com/groups/rpi.de/?ref=group_cover)) an zentraler Stelle zu sammen und zu beantworten. Die Dokumentation steht unter der GPL-Lizenz (Version 3.0).
+Diese FAQ ist entstanden aus dem Wunsch, häufig gestellte Fragen (vor allem in der [Facebook-Gruppe "Raspberry Pi Deutschland"](https://www.facebook.com/groups/rpi.de/?ref=group_cover)) an zentraler Stelle zu sammen und zu beantworten. 
 
 ### Mitmachen!
 
@@ -28,7 +28,13 @@ TODO
 
 # Community
 
-TODO
+## Welche Foren und Communities gibt es?
+
+ - [Facebook-Gruppe "Raspberry Pi Deutschland"](https://www.facebook.com/groups/rpi.de/?ref=group_cover)
+ - [Facebook-Gruppe "TVHeadend Deutschland"](https://www.facebook.com/groups/tvheadend.de/)
+ - [Facebook-Gruppe "Raspbery ZeroBOY Projekt"](https://www.facebook.com/groups/gameboyzeromod/)
+ - [Facebook-Gruppe "Projekt Smart Mirror"](https://www.facebook.com/groups/248735748896945/)
+ - [Facebook-Gruppe "Einplatinencomputer"](https://www.facebook.com/groups/577888222399762/)
 
 # Offene Themen
 Für die hier aufgelisteten Fragen freuen wir uns über eine gut formulierte Antwort von dir. Bitte verschiebe die Frage mit ihrer Antwort dann in den entsprechenden Abschnitt oben.
