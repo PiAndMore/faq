@@ -15,7 +15,7 @@ Die Beiträge werden vom Pi-and-More-Team und anderen Freiwilligen redaktionell 
 Die ganze FAQ ist derzeit bewusst als eine lange Seite gestaltet - so bleibt sie schnell durchsuchbar. Sie soll bewusst keine vollständigen Tutorials etc. wiedergeben, die weitere Unterabschnitte oder separate Seiten erfordern würden.
 
 # Was brauche ich zum Einstieg?
-
+https://www.raspberrypi.org/learning/hardware-guide/
 TODO
 
 # Wie mache ich ...?
@@ -40,3 +40,5 @@ TODO
 Für die hier aufgelisteten Fragen freuen wir uns über eine gut formulierte Antwort von dir. Bitte verschiebe die Frage mit ihrer Antwort dann in den entsprechenden Abschnitt oben.
 ## Wie baue ich einen Magic Mirror?
 ## Wie lese ich die GPIOs aus?
+https://www.raspberrypi.org/blog/using-the-gpio/
+GPIOs akzeptiren nur 3,3V TTL-Signale
