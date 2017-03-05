@@ -19,7 +19,9 @@ Die ganze FAQ ist derzeit bewusst als eine lange Seite gestaltet - so bleibt sie
 
 Links sollten nicht kommentarlos eingefügt werden, dies hilft gerade Anfängern nicht. Wenn möglich, sollte auf deutsche Seiten verwiesen werden.
 
-# Wie stelle ich Fragen?
+# Fragen und Antworten
+
+## Wie stelle ich Fragen?
 
 Wenn du eine Frage in einer Facebook-Gruppe oder einem Forum stellen möchtest, beachte bitte die folgenden Tipps:
 
@@ -33,12 +35,12 @@ Wenn du eine Frage in einer Facebook-Gruppe oder einem Forum stellen möchtest, 
  * Poste Code und Konfigurationsdateien, die du erstellt hast oder an denen du Änderungen durchgeführt hast. **Benutze dazu nicht Facebook,** sondern stell deinen Code auf http://pastebin.com/ und füge dann den Link in deiner Frage ein. Dies stellt sicher, dass Formatierungen im Code erhalten bleiben.
  * Gehe auf die Antworten ein, die du erhältst - das hilft bei der Lösungssuche und steigert die Motivation deiner Helfer, dir auch beim nächsten Problem zur Seite zu stehen.
 
-# Was brauche ich zum Einstieg?
+## Was brauche ich zum Einstieg?
 
 - Einen ersten Einstieg, auf Englisch aber gut bebildert, bietet der offizielle Hardware-Guide:  https://www.raspberrypi.org/learning/hardware-guide/
 - Eine Liste kompatibler Hardware, insbesondere SD-Karten, gibt es auf http://elinux.org/RPi_VerifiedPeripherals
 
-# Wie stelle ich meine config.txt ein?
+## Wie stelle ich meine config.txt ein?
 
 Siehe http://elinux.org/RPiconfig
 
@@ -46,23 +48,20 @@ Siehe http://elinux.org/RPiconfig
 
 TODO
 
-# Was sollte ich als Mediacenter verwenden?
+## Was sollte ich als Mediacenter verwenden?
 
 TODO
 
-# Meine Videos ruckeln! 
+## Meine Videos ruckeln! 
 
 Du brauchst vielleicht (abhängig von deinem Videomaterial) die Lizenzen für MPEG 2 und VC-1. [(Für Hintergründe siehe hier.)](http://www.heise.de/hardware-hacks/meldung/Raspberry-Pi-MPEG-2-und-VC-1-Lizenzen-erhaeltlich-1676076.html) Du kannst diese Lizenzen auf https://raspberrypi.org erwerben.
 
-# Wie kann ich Retrogames auf dem Pi spielen?
+## Wie kann ich Retrogames auf dem Pi spielen?
 
 TODO
 
-# Wie mache ich ...?
 
-TODO
-
-# Wie kann ich regelmäßig mein Programm ausführen lassen?
+## Wie kann ich regelmäßig mein Programm ausführen lassen?
 
 Dazu legst du einen sogenannten Cron-Job an. Cron ist ein Service, mit dem man zeitgesteuert oder auch beim Hochfahren des Pis Programme oder Skripte ausführen lassen kann. 
 
@@ -70,17 +69,17 @@ Informationen zur Einrichtung von [Dirk Handzik](https://www.facebook.com/notes/
 
 **Tipp: Wenn dein Cronjob nicht funktioniert, liegt es häufig daran, dass Pfade nicht gefunden werden oder dass der Cronjob unter dem falschen Benutzer gestartet wurde (siehe [hier](https://wiki.ubuntuusers.de/Cron/#Haeufige-Fehler)).** 
 
-# Ich würde gerne das Windows-Programm X auf dem Pi laufen lassen.
+## Ich würde gerne das Windows-Programm X auf dem Pi laufen lassen.
 
 Ja, es gibt [Windows für den Pi](https://developer.microsoft.com/de-de/windows/iot). Nein, es ist nicht das Windows, was du von deinem PC kennst. Die allermeiste Software wird **nicht** auf deinem Pi laufen! Software, die auf Windows 10 IoT läuft, ist speziell dafür angepasst. Wenn das nicht explizit auf der Website der Software o.ä. steht, dann wird sie **nicht** auf dem Pi laufen!
 
-In [diesem Artikel](https://www.golem.de/news/windows-10-iot-ausprobiert-finales-windows-auf-dem-raspberry-pi-2-1508-115747.html) findest du auch einen Vergleich von Windows 10 Iot zu dem "echten" Windows auf dem PC. 
+In [diesem Artikel](https://www.golem.de/news/windows-10-iot-ausprobiert-finales-windows-auf-dem-raspberry-pi-2-1508-115747.html) findest du auch einen Vergleich von Windows 10 Iot zu dem "echten" Windows auf dem PC. Du wirst sehen, dass es sehr viele Unterschiede gibt.
 
-# Aber es gibt doch Wine!
+## Aber es gibt doch Wine!
 
 Mit Wine und QEMU lassen sich einige wenige [Programme auf dem Pi ausführen](http://www.forum-raspberrypi.de/Thread-raspbian-windowsprogramme-ausfuehren-mit-qemu-und-wine), aber die Ausführung ist sehr langsam. Das reicht für [Druckertreiber](https://www.lhinderberger.de/pi/2016/01/27/raspberry-pi-binary-x86-drivers.html) ([Kauf-Artikel bei c't](https://www.heise.de/ct/ausgabe/2015-18-Binaere-x86-Linux-Treiber-auf-dem-Raspi-nutzen-2766560.html)), aber nicht für größere Anwendungen. 
 
-# Ich möchte gerne meinen Drucker XY mit dem Pi betreiben
+## Ich möchte gerne meinen Drucker XY mit dem Pi betreiben
 
 Die erste Wahl sind die Treiber, die bei Raspbian mitgeliefert werden. Um einen Drucker zu installieren, installiert man zunächst CUPS (mit sudo apt-get install cups) und richtet dann den Drucker über den Webbrowser des Pis auf http://localhost:631/ ein. Eine ausführlichere Anleitung, die auch die Freigabe des Druckers im Netz behandelt, findet sich [bei Raspberry Pi Geek](http://www.raspberry-pi-geek.de/Magazin/2013/05/Raspberry-Pi-als-Datei-und-Drucker-Server/(offset)/2) und auch im [Elektronik-Kompendium](https://www.elektronik-kompendium.de/sites/raspberry-pi/2007081.htm). 
 
