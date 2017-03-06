@@ -15,7 +15,11 @@ Tipp: Beide Bearbeitungsmöglichkeiten stehen dir auch direkt im Browser zur Ver
 
 ### Formatierungshinweise
 
-Die ganze FAQ ist derzeit bewusst als eine lange Seite gestaltet - so bleibt sie schnell durchsuchbar. Sie soll bewusst keine vollständigen Tutorials etc. wiedergeben, die weitere Unterabschnitte oder separate Seiten erfordern würden. Auf solche Inhalte auf externen Seiten sollte mit Links verwiesen werden. Daher benutzen wir auch derzeit bewusst keine Wiki-Software.
+Oder: Wieso kein Wiki? 
+
+Die ganze FAQ ist (nach dem Vorbild der [de.sci.electronics-FAQ](http://www.dse-faq.elektronik-kompendium.de/dse-faq.htm))  derzeit bewusst als eine lange Seite gestaltet - so bleibt sie schnell durchsuchbar. Sie soll bewusst keine vollständigen Tutorials etc. wiedergeben, die weitere Unterabschnitte oder separate Seiten erfordern würden. Auf solche Inhalte auf externen Seiten sollte mit Links verwiesen werden. Daher benutzen wir auch derzeit bewusst keine Wiki-Software. 
+
+Außerdem kann diese Wiki-Seite so leicht auch auf anderen Seiten eingebettet werden.
 
 Links sollten nicht kommentarlos eingefügt werden, dies hilft gerade Anfängern nicht. Wenn möglich, sollte auf deutsche Seiten verwiesen werden.
 
