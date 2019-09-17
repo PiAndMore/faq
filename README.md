@@ -45,17 +45,6 @@ Wenn du eine Frage in einer Facebook-Gruppe oder einem Forum stellen möchtest, 
 
 Siehe http://elinux.org/RPiconfig
 
-## Wie installiere ich das Betriebssystem?
-
-TODO
-
-## Was sollte ich als Mediacenter verwenden?
-
-TODO
-
-## Meine Videos ruckeln! 
-
-Du brauchst vielleicht (abhängig von deinem Videomaterial) die Lizenzen für MPEG 2 und VC-1. [(Für Hintergründe siehe hier.)](http://www.heise.de/hardware-hacks/meldung/Raspberry-Pi-MPEG-2-und-VC-1-Lizenzen-erhaeltlich-1676076.html) Du kannst diese Lizenzen auf https://raspberrypi.org erwerben.
 
 ## Wie kann ich Retrogames auf dem Pi spielen?
 
@@ -100,6 +89,14 @@ In [diesem Artikel](https://www.golem.de/news/windows-10-iot-ausprobiert-finales
 ## Aber es gibt doch Wine!
 
 Mit Wine und QEMU lassen sich einige wenige [Programme auf dem Pi ausführen](http://www.forum-raspberrypi.de/Thread-raspbian-windowsprogramme-ausfuehren-mit-qemu-und-wine), aber die Ausführung ist sehr langsam. Das reicht für [Druckertreiber](https://www.lhinderberger.de/pi/2016/01/27/raspberry-pi-binary-x86-drivers.html) ([Kauf-Artikel bei c't](https://www.heise.de/ct/ausgabe/2015-18-Binaere-x86-Linux-Treiber-auf-dem-Raspi-nutzen-2766560.html)), aber nicht für größere Anwendungen. 
+
+## Aber Windows 10 gibt's doch auch für ARM!
+
+Seit dem Raspberry 3B+ läuft auch das "echte" Windows 10. Es ist jedoch nicht nur [kompliziert zu installieren](https://github.com/WOA-Project/WOA-Deployer-Rpi) sondern auch noch sehr, sehr langsam, wie [hier](https://www.heise.de/ct/artikel/Windows-10-auf-dem-Raspberry-Pi-4321822.html) nachzulesen ist. Kurzum: Es gibt kein brauchbares Windows 10 auf dem Pi.
+
+## Läuft Android auf dem Pi?
+
+Die kurze Antwort lautet auch hier: Nein. Es gibt verschiedene Ansätze, doch leiden die darunter, dass oft alte Android-Versionen installiert werden, viele wichtige Funktionen fehlen oder instabil sind, und dass Android in Ermangelung von Hardwareunterstützung nur sehr langsam läuft. Statt Android auf den Pi sollte daher besser zu einem günstigen Android-Tablet gegriffen werden.
 
 ## Ich möchte gerne meinen Drucker XY mit dem Pi betreiben
 
