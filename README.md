@@ -59,7 +59,28 @@ Du brauchst vielleicht (abhängig von deinem Videomaterial) die Lizenzen für MP
 
 ## Wie kann ich Retrogames auf dem Pi spielen?
 
-TODO
+Die beiden größten Distributionen für Retrogaming sind Recalbox und RetroPie.
+Vom Softwareumfang bzw. von den installierten Emulatoren sind beide fast gleich.
+Der Vorteil von Recalbox ist die einfache Installation und Einrichtung. Es läuft nach der Installation fast alleine out-of-the-Box.
+Bei RetroPie gibt es mehr Einstellungs- und Anpassungsmöglichkeiten, die aber Anfänger am Anfang verwirren können. Auch bietet Retropi durch die größere Community und der sehr guten Dokumentation bei Github mehr Unterstützung.
+Die dritte große Distribution ist  ZeroboyOs (http://www.zeroboy.eu). Es ist eine angepasste Version für kleine Displays und für den Zero (auch Zero W). Sie wurde im Verlaufe des Projekts ZeroBoy angepasst. Sie basiert auf RetroPie.
+
+Natürlich gibt es noch mehr Distributionen zum Thema Retrogaming, die aufgeführten sind aber die größten.
+
+Installation:
+
+Für Recalbox finde ist diese Anleitung sehr gut und auch sehr verständlich:
+http://powerpi.de/die-bessere-retropie-alternative-so-installierst-du-recalboxos-auf-deinem-raspberry-pi-2/
+
+Für RetroPie ist diese Anleitung auf Github sehr gut:
+https://github.com/retropie/retropie-setup/wiki/First-Installation
+
+Kodi:
+Auf beiden Distros kann zusätzlich ganz einfach Kodi hinzugefügt werden. 
+
+Bei RetroPie geht das mit dieser Anleitung sehr einfach. https://github.com/RetroPie/RetroPie-Setup/wiki/KODI
+
+Bei Recalbox ist Kodi schon installiert. Für die Nutzung ist diese Anleitung seht hilfreich. https://github.com/recalbox/recalbox-os/wiki/Kodi-on-recalbox-(EN)
 
 
 ## Wie kann ich regelmäßig mein Programm ausführen lassen?
